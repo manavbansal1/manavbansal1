@@ -105,8 +105,6 @@ Always open to interesting projects, tech discussions, or collaboration opportun
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manavbansal.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manav_bansal@sfu.ca)
 
-![Profile Views](https://komarev.com/ghpvc/?username=manavbansal1&color=blueviolet&style=flat-square)
-
 ---
 
 *"First, solve the problem. Then, write the code."* - John Johnson
