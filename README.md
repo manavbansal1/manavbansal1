@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at Simon Fraser University (4.28 GPA) who loves building software that spans the entire stack. One day I'm implementing memory allocators in C with GDB and Valgrind, the next I'm deploying real-time chat apps with Socket.IO and MongoDB.
+I'm a Computer Science student at Simon Fraser University (4.27 GPA) who loves building software that spans the entire stack. One day I'm implementing memory allocators in C with GDB and Valgrind, the next I'm deploying real-time chat apps with Socket.IO and MongoDB.
 
 I believe the best developers understand systems from the ground up—whether it's bit-level manipulation, TCP/IP protocols, or React state management. That's what drives me to explore everything from x86-64 assembly to modern CI/CD pipelines.
 
